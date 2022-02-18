@@ -11,3 +11,13 @@ Here I plan to add some custom themes that I've created for the git client and y
 
 - Make sure you are running GitKraken 8.3+
 - Download the theme that you wan to use - you just need the `jsonc` file
+- Follow the demo below to find where to save the `jsconc` file
+- ![Save location demo](https://github.com/OwainWilliams/GitKrakenThemes/blob/master/GitKrakenThemeSaveLocation.gif)
+- Once you have saved the file in the correct location, the new theme will be available in the dropdown menu
+- Select the theme you want to use. 🎉
+
+## Contribute to this project
+
+If you would like to submit your own theme to this repo, please do! Please submit a Pull Request and include your `jsonc` file along with a `Readme.md` file and a screenshot of your theme. Have a look at the themes already submitted if you need help.
+
+If you have any questions, please reach out to me on twitter - @scottishcoder 
