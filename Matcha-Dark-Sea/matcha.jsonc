@@ -97,10 +97,7 @@
         "unverified": "fade(#ffffff, 10%)",
         "drop-sort-border": "@green",
         // terminal
-        "terminal__repo-name-color": "turquoise",
-        "terminal__repo-branch-color": "violet",
-        "terminal__repo-tag-color": "lightcoral",
-        "terminal__repo-upstream-color": "yellowgreen"
+        "terminal__background": "#151B1C"
       },
       // override specific values just for the toolbar
       "toolbar": {
