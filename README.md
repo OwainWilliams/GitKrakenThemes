@@ -22,4 +22,7 @@ Here I plan to add some custom themes that I've created for the git client and y
 
 If you would like to submit your own theme to this repo, please do! Please submit a Pull Request and include your `jsonc` file along with a `Readme.md` file and a screenshot of your theme. Have a look at the themes already submitted if you need help.
 
+## A quick way to create a GitKraken Theme
+Use the [Theme Builder](https://gitkraken-theme-builder.netlify.app/) and once you are happy with your theme, add it to this project! 
+
 If you have any questions, please reach out to me on twitter - @scottishcoder 
